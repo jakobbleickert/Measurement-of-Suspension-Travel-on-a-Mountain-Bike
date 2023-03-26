@@ -1,11 +1,18 @@
-# Measurement-of-suspension-travel-using-ESP32-C3-and-TFmini-S
-IOT Project: Measurement of the suspension travel with ESP32-C3, a RISC-V µC from Espressif
+# Measurement of suspension travel with ESP32-C3, a RISC-V µC from Espressif  
+Author: Jakob Bleickert
 
-University: | FH Vorarlberg
---- | --- 
-Study Program: | Master Mechatronics
---- | ---
-Course: | Embedded Systems Programming
+University: FH Vorarlberg  |  Study Program: Master Mechatronics  |  Course: Embedded Systems Programming  
 
+<!---
+| University:   | FH Vorarlberg           |
+|:------------- |:------------------------|
+| Study Program:| Master Mechatronics     |
+| Course:  | Embedded Systems Programming |
+--->
+Peripherals:  
+• Benewake TFmini-S  
+• BTF-LIGHTING WS2812  
+• Anker PowerCore 5000  
+• Switch for handlebar  
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sVWrn2VmOQg/0.jpg)](https://www.youtube.com/watch?v=sVWrn2VmOQg)
+https://www.youtube.com/watch?v=sVWrn2VmOQg
