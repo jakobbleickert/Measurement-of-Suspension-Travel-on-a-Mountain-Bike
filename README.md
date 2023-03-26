@@ -1,7 +1,8 @@
-# Measurement of suspension travel with ESP32-C3, a RISC-V µC from Espressif  
-## Author: Jakob Bleickert
+# Measurement of suspension travel: ESP32-C3, a RISC-V µC from Espressif  
+### Author: Jakob Bleickert
 
 ### FH Vorarlberg  | Master Mechatronics  |  Embedded Systems Programming  
+### https://www.youtube.com/watch?v=sVWrn2VmOQg
 
 <!---
 | University:   | FH Vorarlberg           |
@@ -15,8 +16,6 @@ Peripherals:
 • BTF-LIGHTING WS2812  
 • Anker PowerCore 5000  
 • Switch for handlebar  
-
-https://www.youtube.com/watch?v=sVWrn2VmOQg
 
 <img src="https://user-images.githubusercontent.com/83948109/227796706-70911dc9-863d-4d56-9058-8a4441aae3f2.png" width="700" >
 
