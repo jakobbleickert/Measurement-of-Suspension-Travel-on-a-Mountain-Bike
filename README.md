@@ -22,8 +22,8 @@ Peripherals:
 
 <img src="https://user-images.githubusercontent.com/83948109/227863946-8b258366-a156-44f4-8481-366031919b7c.jpg" width="800" >  
 
-## Architecture and Communication
-<img src="https://user-images.githubusercontent.com/83948109/227796831-92b8fd4e-c28a-4dbd-924c-a6dc15222b51.jpg" width="800" >  
+## Architecture
+<img src="https://user-images.githubusercontent.com/83948109/227868542-f9288d98-641a-4408-9539-9478edf4630c.png" width="800" >  
 
 ## Inter-Integrated Circuit (I2C)
 <img src="https://user-images.githubusercontent.com/83948109/227797526-cfc71186-8914-4a47-9b0a-ebe10f60f9c0.JPG" width="800" >  
