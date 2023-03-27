@@ -1,4 +1,4 @@
-# Measurement of suspension travel on a Mountainbike
+# Measurement of suspension travel on a mountain bike
 ### Author: Jakob Bleickert
 
 ### FH Vorarlberg  | Master Mechatronics  |  Embedded Systems Programming  
