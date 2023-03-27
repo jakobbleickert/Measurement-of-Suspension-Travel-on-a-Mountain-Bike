@@ -1,4 +1,4 @@
-# Measurement of suspension travel: ESP32-C3, a RISC-V µC from Espressif  
+# Measurement of suspension travel on a Mountainbike
 ### Author: Jakob Bleickert
 
 ### FH Vorarlberg  | Master Mechatronics  |  Embedded Systems Programming  
@@ -11,10 +11,11 @@
 | Course:  | Embedded Systems Programming |
 --->
 
-Espressif ESP32-C3 and ESP-IDF  
+Espressif ESP32-C3, a RISC-V µC  
+Espressif ESP-IDF  
 
 Peripherals:  
-• Benewake TFmini-S with I2C
+• Benewake TFmini-S (I2C) LiDAR  
 • BTF-LIGHTING WS2812  
 • Anker PowerCore 5000  
 • Switch for handlebar  
