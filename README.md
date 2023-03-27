@@ -29,4 +29,4 @@ Peripherals:
 <img src="https://user-images.githubusercontent.com/83948109/227903006-63868533-270d-4b96-a8d3-38a4141ebece.jpg" width="800" >  
 
 ## TFmini-S I2C Protocol
-<img src="https://user-images.githubusercontent.com/83948109/227797546-5df2627a-cb5a-4f19-8383-0aaf8ab09ded.JPG" width="800" >  
+<img src="https://user-images.githubusercontent.com/83948109/227904133-e8e8b51e-ad5e-40cc-a66e-b5e43e85917c.jpg" width="800" >  
