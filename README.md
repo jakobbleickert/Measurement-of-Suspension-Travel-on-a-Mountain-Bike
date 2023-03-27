@@ -26,7 +26,7 @@ Peripherals:
 <img src="https://user-images.githubusercontent.com/83948109/227873650-37044dd7-bc47-49a5-8252-3c8ef7213183.jpg" width="800" >  
 
 ## Inter-Integrated Circuit (I2C)
-<img src="https://user-images.githubusercontent.com/83948109/227797526-cfc71186-8914-4a47-9b0a-ebe10f60f9c0.JPG" width="800" >  
+<img src="https://user-images.githubusercontent.com/83948109/227903006-63868533-270d-4b96-a8d3-38a4141ebece.jpg" width="800" >  
 
 ## TFmini-S I2C Protocol
 <img src="https://user-images.githubusercontent.com/83948109/227797546-5df2627a-cb5a-4f19-8383-0aaf8ab09ded.JPG" width="800" >  
